@@ -32,5 +32,5 @@ The current model is not bad and not great. It can be improved and I am on it.
 
 **To do -**
 1. Improve the current model.
-2. Build a model that can increase the size of the image
+2. Add feature to increase the size of the image
 3. Add feature to the front end where user can select increase size or decrease size. Based on user input select the model.
