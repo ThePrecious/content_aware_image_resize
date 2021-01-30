@@ -1,0 +1,14 @@
+Data Collection -
+
+Download VOC 2012 data from - https://pjreddie.com/projects/pascal-voc-dataset-mirror/
+
+Train/Validation data size - 1.9 GB
+Test data size - 1.8 GB
+
+
+For downloading images from google images - https://github.com/hardikvasa/google-images-download
+I could not get it working on my laptop. 
+Used the following command to download images - 
+
+python3 bing_scraper.py --url 'https://www.bing.com/images/search?q=flowers' --limit 10 --download --chromedriver <path to chromedriver>
+
