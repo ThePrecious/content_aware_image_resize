@@ -24,7 +24,7 @@ I have trained a model with a bunch of images which I have resized using seam ca
 
 So training input - is an image and training label - is seam carved image.
 
-In this project I am focusing on reducing the size (384x400). In future, I would like to build a model to increase the size of the image too. Wikipedia does a good job of explaining seam carving - https://en.wikipedia.org/wiki/Seam_carving
+In this project I am focusing on reducing the size (384x400). Wikipedia does a good job of explaining seam carving - https://en.wikipedia.org/wiki/Seam_carving
 
 I decided to use the famous u-net architecture for this problem. Consider the seams to be like segments in the image that the model has to learn about ie, the model should be able to identify low energy paths in the image.
 
