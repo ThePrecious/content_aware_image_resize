@@ -1,6 +1,8 @@
 ### Content aware image resize
 Have you ever tried to post your vacation pic on social media and find that it somehow crops a part of the image to fit its requirement, thereby cropping off a non trivial part of the image?? I did.. My aim in this project to build a deep learning application that can resize the image smartly, without cropping off the important part of the image. Fancy name for this project would be **Content aware image resizing.** :wink:
 
+Demo (screen recording :video_camera: ) link - https://youtu.be/n64UpMYlN-Q
+
 Currently you will find MVP of this project here. Wanna try? :smiley:
 
 1. Goto - http://ec2-54-212-97-143.us-west-2.compute.amazonaws.com:5000/
@@ -15,8 +17,7 @@ Happy with the output of MVP??? Thank you.
 Not Happy with the output?? I am working on improving the model. There is a laundry list of todos. :woman_technologist:
 Will update the model when it improves. Watch out this space.
 
-**Note** - If the above link does not work (ie. If you get the message - "This site can’t be reached")- it means that I have turned off the ec2 instance to avoid unnecessary expense. :money_with_wings: 
-
+**NOTE** - If the above link does not work (ie. If you get the message - "This site can’t be reached")- it means that I have turned off the ec2 instance to avoid unnecessary expense. :money_with_wings: 
 
 **So, what is happening behind the scenes?**:female_detective:
 
